@@ -20,6 +20,4 @@ Use Python 3.8 or older, otherwise you will encounter issues with the mendeley S
 ## Changes
 
 1. The original URL `http://localhost:5000` won't work as the solution is suggested at `https://github.com/Mendeley/mendeley-api-python-example/issues/3#issuecomment-207752071`.
-2. Remove curly braces from the config.yml file. Example:\\
-3.
-4. clientId: {YourID} to clientId: 00000
+2. Remove curly braces from the config.yml file. Example, clientId: {YourID} to clientId: 00000
